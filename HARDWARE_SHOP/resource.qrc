@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pr">
+        <file>files/products.txt</file>
+        <file>files/cheque.txt</file>
+    </qresource>
+</RCC>
